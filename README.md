@@ -1,1 +1,1 @@
-# Telco-Customer-Churn
+# Telcom-Customer-Churn
